@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NasaApi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_fecha">27/07/1398</string>
+    <string name="Dispositivo">Rover</string>
+    <string name="Camara">Camara</string>
+    <string name="alias_info">Alias: %s</string>
+    <string name="date_info">Description: %s</string>
+    <string name="sex_info">Genre: %s</string>
+    <string name="eyes_info">eyes color: %s</string>
+    <string name="hair_info">hair color: %s</string>
+    <string name="nationality_info">nationality : %s</string>
+    <string name="title_example">titulo</string>
+    <string name="summary_example">summary</string>
+    <string name="description">Descripcion</string>
+    <string name="no_description">Without Description </string>
+</resources>
